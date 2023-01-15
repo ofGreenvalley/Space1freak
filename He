@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<head>
+   <script src="functions.js"></script> 
+<link rel="stylesheet" href="style.css">
+ </head> 
+
+<div id="xatstyme">
+</style>
+<div id="NotAllowedme">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<div id="main">
+ <div id="content-1">
+ <div id="content-2">
+ <div id="content-3">
+ <div id="content-4">
+ <div class="container">
+ <div class="menu">
+ <a class="btn-menu" href="#content-1">home</a>
+ <a class="btn-menu" href="#content-2">friend</a>
+ <a class="btn-menu" href="#content-3">music</a>
+ </div>
+ <div class="main-content">
+ <div class="header">
+ <h1 class="title"></h1>
+ <h2 class="sub-title">Serious(500005)</h2>
+ </div>
+ <div class="main-page">
+ <div class="pages">
+ <div class="home">
+ <div class="block">
+ <h2 class="welcome">Freak</h2>
+ <img src="https://xatimg.com/image/hCjRSeJWwGeK.jpg" />
+ <p class="desc">
+ Don't matter.
+ </p>
+ </div>
+ </div>
+ <div class="friend">
+ <div class="block">
+ <div class="col-img">
+ <img src="https://xatimg.com/image/XEB8aMG8nzkS.jpg" />
+ </div>
+ <div class="aside">
+ <h2>My Friends</h2>
+ <div class="col-friend">
+ <div class="row-friend">
+ <img src="https://i.postimg.cc/7hmyCV5g/boy.png" />
+ <div class="infor">
+ <h4>Mr Chombo</h4>
+ <span>★★★★✩</span>
+ <a class="me" href="http://xat.me/t">xatspace</a>
+ </div>
+ </div>
+ <div class="row-friend">
+ <img src="https://i.postimg.cc/fyWGh98k/girl.png" />
+ <div class="infor">
+ <h4>Vampirita</h4>
+ <span>★★★★✩</span>
+ <a class="me" href="http://xat.me/t">xatspace</a>
+ </div>
+ </div>
+ <div class="row-friend">
+ <img src="https://i.postimg.cc/fyWGh98k/girl.png" />
+ <div class="infor">
+ <h4>Toxic</h4>
+ <span>★★★★✩</span>
+ <a class="me" href="http://xat.me/t">xatspace</a>
+ </div>
+ </div>
+ <div class="row-friend">
+ <img src="https://i.postimg.cc/fyWGh98k/girl.png" />
+ <div class="infor">
+ <h4>Twinky</h4>
+ <span>★★★★✩</span>
+ <a class="me" href="http://xat.me/t">xatspace</a>
+ </div>
+ </div>
+ <div class="row-friend">
+ <img src="https://i.postimg.cc/7hmyCV5g/boy.png" />
+ <div class="infor">
+ <h4>Luis</h4>
+ <span>★★★★✩</span>
+ <a class="me" href="http://xat.me/t">xatspace</a>
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ <div class="video">
+ <div class="block">
+ <div class="box-video">
+ <div><br /><object width="600" height="315" data="https://www.youtube.com/embed/lWmWUxQu53g"></object>  </div>
+ </div>
+
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ <div class="footer">
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+</div></div></div>
+
+  
+<html>
+<body>
